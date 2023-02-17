@@ -1,4 +1,4 @@
-# opessoa.github.io
+# Omar Fernando Pessoa
 
 # About me
 
@@ -13,7 +13,7 @@ This year I've been immersed in another company, with no Brazilian guys, named Z
 
 The biggest technical challenge that I've passed in these years, was a refactoring project. When working for Microton, I've worked on a vendor's software, this software runs on Windows CE, low memory, and not fast hardware. The software was based on one service and the clients, that was the pockets pcs. The data were stored in structural files, and when the service was started, these data were "indexed" in memory. For big databases, the indexing took almost 4 hours to complete. So the main purpose of that project was to decrease this time. After some time of research, we've decided to use AVL to classify these indexes, reducing the time to less than 10 minutes.
 
-#CV
+# CV
 
 PERSONAL INFO
 
