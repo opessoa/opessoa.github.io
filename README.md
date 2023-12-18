@@ -28,35 +28,35 @@ WORK EXPERIENCE
 
 Responsible for software development using C++ at the Sabre orders system, working with promotions and offers.
 
-Technologies used: C, C++, std, boost, grpc, VSCode, wsl, Rally (to control the user strories), and Git.
+Technologies used: C, C++, std, boost, grpc, VSCode, wsl, Rally (to control the user stories), and Git.
 
 **Verotthi Consultores Ltda** - Software Developer
 
-Responsible for software development using C, C++, and C# at the MCDonalds orders system in the US Team. Working also with javascript and HTML on the UI and workflows hooks.
+Responsible for software development using C, C++, and C# at the MCDonalds orders system in the US Team. Working also with javascript and HTML on the UI and workflow hooks.
 
-Technologies used: C, C++, C#, javascript and HTML. Visual Studio 2019, Jira, and Git.
+Technologies used: C, C++, C#, TCP Socket messages, javascript, and HTML. Visual Studio 2019, Jira, and Git.
 
 **Microton Informatica Ltda** - Software Developer
 
-Responsible for software development using VC++ at the property control and fiscal system, server and client side, using DCOM and MFC. C++ Internship Instructor (focused on C string instructions, pointers, files, and MFC containers). Work on software development using C++ in a vehicle routing planer application, using MFC, GDI, GDI+, Direct2D, OSMCtrl, POSTGRES, POSTGIS, and PGRouting. Also, work as a PHP Developer on internal applications.
+Responsible for software development using VC++ at the property control and fiscal system, server, and client-side, using DCOM and MFC. C++ Internship Instructor (focused on C string instructions, pointers, files, and MFC containers). Work on software development using C++ in a vehicle routing planer application, using MFC, GDI, GDI+, Direct2D, OSMCtrl, POSTGRES, POSTGIS, and PGRouting. Also, work as a PHP Developer on internal applications.
 
-Technologies used: C, C++, PHP, Javascript, MFC, Win32, DCOM, Direct2D, GDI, GDI+, curl, SQLite, POSTGRES, MySQL, structured data files, Visual Studio.
+Technologies used: C, C++, PHP, Javascript, MFC, Win32, Sockets (TCP/UDP), DCOM, Direct2D, GDI, GDI+, curl, SQLite, POSTGRES, MySQL, structured data files, Visual Studio.
 
 **Quellon do Brasil SA** 01/2010 – 12/2010 Software Developer
 
-Responsible for the software development using C# in a web framework on reports generation. Quellon has a C# framework used by Facil Sistemas, it’s an API to produce software, creating Database (CRUD), DataSource and DataView, and WebViews. The Report generation project get used this data to generate its reports using Dev Express.
+Responsible for the software development using C# in a web framework on reports generation. Quellon has a C# framework used by Facil Sistemas, it’s an API to produce software, creating Database (CRUD), DataSource and DataView, and WebViews. The Report generation project used this data to generate its reports using Dev Express.
 
 Technologies used: C#, Dev Express, Visual Studio, Oracle, MySQL.
 
 **Microton Informatica Ltda** - Software Developer
 
-Responsible for the software development using C++ of a property control system and software development in apps for Pocket’s PC and Mobile. This property control system is a windows application used to control all your property, was written using VC++ with MFC and DCOM on the server side, using Win32 file access. All data was stored in structured data files. The Pocket and Mobile apps were also developed in C++ and in some cases C#. The apps collect your property objects and sent the collected data, using TCP sockets, to the property control system.
+Responsible for the software development using C++ of a property control system and software development in apps for Pocket’s PC and Mobile. This property control system is a Windows application used to control all your property, was written using VC++ with MFC and DCOM on the server side, using Win32 file access. All data was stored in structured data files. The Pocket and Mobile apps were also developed in C++ and in some cases C#. The apps collect your property objects and send the collected data, using TCP sockets, to the property control system.
 
 Technologies used: C++, C#, Visual Studio, MFC, Win32, GDI, Sockets.
 
 **WK Sistemas Ltda** - Software Developer
 
-Software Developers focused on basic C, Oriented Object C++, GDI, MFC, and DCOM. Responsible for research on errors with DCOM technology using sockets sniffer software to analyze packages. Worked on C++ software development in employees’ time card control and C# software development in federal taxes control system.
+Software Developers focused on basic C, Oriented Object C++, GDI, MFC, and DCOM. Responsible for research on errors with DCOM technology using sockets sniffer software to analyze packages. Worked on C++ software development in employees’ time card control and C# software development in the federal tax control system.
 
 Technologies used: C++, C, C#, Visual Studio, MFC, Win32, GDI, Sockets.
 
@@ -91,6 +91,7 @@ SKILLS
 - Javascript
 - MFC
 - Win32
+- Sockets(TCP/UDP)
 - DCOM
 - Direct2D
 - GDI
@@ -103,4 +104,3 @@ SKILLS
 - Visual Studio
 - Dev Express
 - Oracle
-- Sockets
