@@ -24,13 +24,13 @@ PERSONAL INFO
 
 WORK EXPERIENCE
 
-**Zircon Tech** – Current Software Developer
+**Zircon Tech** – Current - Senior Software Engineer
 
 Responsible for software development using C++ at the Sabre orders system, working with promotions and offers.
 
 Technologies used: C, C++, std, boost, grpc, VSCode, wsl, Rally (to control the user stories), and Git.
 
-**Verotthi Consultores Ltda** - Software Developer
+**Verotthi Consultores Ltda** - Senior Software Engineer
 
 Responsible for software development using C, C++, and C# at the MCDonalds orders system in the US Team. Working also with javascript and HTML on the UI and workflow hooks.
 
