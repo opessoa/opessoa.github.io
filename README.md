@@ -7,7 +7,7 @@ I started with software development in 2003 as a trainee, focused on c++ softwar
 Of course, I've passed for other languages, like C#, PHP, javascript, HTML...
 
 I've worked, most of the years, locally, I mean for local companies. WK Sistemas, and Microton developing EPR software based on Windows.
-Then, with the pandemic, I had the opportunity to try to work for an international company RDI/ part of Capgemini group, allocated to the MacDonalds, United States, core team, also developing and supporting the team with C++/C# and a private script based on javascript.
+Then, with the pandemic, I had the opportunity to try to work for an international company RDI/ part of Capgemini group, allocated to the McDonalds, United States, core team, also developing and supporting the team with C++/C# and a private script based on javascript.
 
 This year I've been immersed in another company, with no Brazilian guys, named Zircon, almost the team was from Argentina. We are allocated to Sabre, which is an international travel software company based in the United States.
 
